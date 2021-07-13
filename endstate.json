@@ -1,0 +1,383 @@
+{
+  "bot_states": [
+    {
+      "ID": 0,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -20.0,
+      "y_position": 0.0
+    },
+    {
+      "ID": 1,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 20.0,
+      "y_position": 0.0
+    },
+    {
+      "ID": 2,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 0.0,
+      "y_position": 35.0
+    },
+    {
+      "ID": 3,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 0.0,
+      "y_position": -35.0
+    },
+    {
+      "ID": 4,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -20.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 5,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 20.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 6,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 60.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 7,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 100.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 8,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 140.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 9,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 180.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 10,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 220.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 11,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 260.0,
+      "y_position": 70.0
+    },
+    {
+      "ID": 12,
+      "direction": -1.4922516722924728,
+      "state": {},
+      "x_position": 68.192096725477839,
+      "y_position": 252.21159898901669
+    },
+    {
+      "ID": 13,
+      "direction": -4.6403843380211649,
+      "state": {},
+      "x_position": 17.936446385554909,
+      "y_position": -118.26907342401422
+    },
+    {
+      "ID": 14,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 0.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 15,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 40.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 16,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 80.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 17,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 120.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 18,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 160.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 19,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 200.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 20,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 240.0,
+      "y_position": 105.0
+    },
+    {
+      "ID": 21,
+      "direction": -2.2485598202152746,
+      "state": {},
+      "x_position": -56.339119460001783,
+      "y_position": 236.97205502588233
+    },
+    {
+      "ID": 22,
+      "direction": -5.5857695229247115,
+      "state": {},
+      "x_position": 75.441053574806062,
+      "y_position": -72.621044123390419
+    },
+    {
+      "ID": 23,
+      "direction": -2.9008755977986911,
+      "state": {},
+      "x_position": -95.507864589101288,
+      "y_position": -69.246560842156555
+    },
+    {
+      "ID": 24,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -20.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 25,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 20.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 26,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 60.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 27,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 100.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 28,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 140.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 29,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 180.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 30,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 220.0,
+      "y_position": 140.0
+    },
+    {
+      "ID": 31,
+      "direction": -3.1277680421755316,
+      "state": {},
+      "x_position": -61.3601518051887,
+      "y_position": 121.88957434097132
+    },
+    {
+      "ID": 32,
+      "direction": -3.8557146345512283,
+      "state": {},
+      "x_position": -47.743372338348401,
+      "y_position": 35.144082066889169
+    },
+    {
+      "ID": 33,
+      "direction": -4.9429075971902998,
+      "state": {},
+      "x_position": -22.515584085097153,
+      "y_position": -79.022688275659704
+    },
+    {
+      "ID": 34,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 0.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 35,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 40.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 36,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 80.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 37,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 120.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 38,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 160.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 39,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 200.0,
+      "y_position": 175.0
+    },
+    {
+      "ID": 40,
+      "direction": -3.8746223382492984,
+      "state": {},
+      "x_position": -75.402285679290969,
+      "y_position": -4.3614129726692985
+    },
+    {
+      "ID": 41,
+      "direction": -5.7086695969621726,
+      "state": {},
+      "x_position": 104.69694271604682,
+      "y_position": -18.185319609516004
+    },
+    {
+      "ID": 42,
+      "direction": -4.886184486096087,
+      "state": {},
+      "x_position": 19.684178052260798,
+      "y_position": -75.855829533286496
+    },
+    {
+      "ID": 43,
+      "direction": -5.9639235968861302,
+      "state": {},
+      "x_position": 65.388422147737614,
+      "y_position": -2.4155959590022045
+    },
+    {
+      "ID": 44,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": -20.0,
+      "y_position": 210.0
+    },
+    {
+      "ID": 45,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 20.0,
+      "y_position": 210.0
+    },
+    {
+      "ID": 46,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 60.0,
+      "y_position": 210.0
+    },
+    {
+      "ID": 47,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 100.0,
+      "y_position": 210.0
+    },
+    {
+      "ID": 48,
+      "direction": 1.5707963267948966,
+      "state": {},
+      "x_position": 140.0,
+      "y_position": 210.0
+    },
+    {
+      "ID": 49,
+      "direction": 1.2966346231728809,
+      "state": {},
+      "x_position": 183.37833971364239,
+      "y_position": 213.18962034545405
+    },
+    {
+      "ID": 50,
+      "direction": -2.5794446349315003,
+      "state": {},
+      "x_position": -142.41438146734288,
+      "y_position": -61.289982380116406
+    },
+    {
+      "ID": 51,
+      "direction": -4.7065613009644132,
+      "state": {},
+      "x_position": -69.74065639142546,
+      "y_position": -93.183572591886929
+    },
+    {
+      "ID": 52,
+      "direction": -5.85993122654674,
+      "state": {},
+      "x_position": 45.349983767709759,
+      "y_position": -41.747654328256736
+    },
+    {
+      "ID": 53,
+      "direction": -3.9029838937964034,
+      "state": {},
+      "x_position": -43.344720108930922,
+      "y_position": -38.952077252782352
+    }
+  ],
+  "ticks": 16023
+}
